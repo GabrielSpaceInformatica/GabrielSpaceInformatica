@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gabriel&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Corporativo%20&%20Intelig%C3%AAncia%20Artificial&descAlignY=51&descAlign=62" />
 </div>
 
-<h1 align="center">Olá, eu sou o Gabriel! 👋</h1>
+<h1 align="center">Oi, Eu sou o Gabriel Medeiros 👋</h1>
 
 <div align="center">
   <p><strong>Desenvolvedor focado em transformar operações complexas em fluxos de trabalho ágeis, elegantes e eficientes.</strong></p>
